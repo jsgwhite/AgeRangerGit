@@ -1,0 +1,17 @@
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\AgeRangerRepository.dll.config
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\AgeRangerRepository.dll
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\AgeRangerRepository.pdb
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\EntityFramework.dll
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\System.Data.SQLite.dll
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\EntityFramework.xml
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\System.Data.SQLite.xml
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\obj\Debug\AgeRangerRepository.csprojResolveAssemblyReference.cache
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\obj\Debug\AgeRangerRepository.dll
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\obj\Debug\AgeRangerRepository.pdb
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\AgeRangerEntities.dll
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerRepository\bin\Debug\AgeRangerEntities.pdb

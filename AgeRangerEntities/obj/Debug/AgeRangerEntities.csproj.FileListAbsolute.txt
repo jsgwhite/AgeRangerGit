@@ -1,0 +1,5 @@
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerEntities\bin\Debug\AgeRangerEntities.dll
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerEntities\bin\Debug\AgeRangerEntities.pdb
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerEntities\obj\Debug\AgeRangerEntities.csprojResolveAssemblyReference.cache
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerEntities\obj\Debug\AgeRangerEntities.dll
+C:\Users\jsgwh\onedrive\documents\visual studio 2017\Projects\AgeRangerTest\AgeRangerEntities\obj\Debug\AgeRangerEntities.pdb
